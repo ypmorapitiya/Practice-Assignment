@@ -1,4 +1,4 @@
 I have deleted node and angular files to reduce the size. please install them first using npm install
 I have use JWT for authentication and you can get register yourself.
-
+I have use code first approch to create the database.
 please set the connection string in the appsetting.json and run use update-database command in the package manager console.
