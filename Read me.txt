@@ -1,0 +1,3 @@
+I have use JWT for authentication and you can get register yourself.
+
+please set the connection string in the appsetting.json and run use update-database command in the package manager console.
